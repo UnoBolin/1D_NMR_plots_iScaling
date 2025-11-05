@@ -14,8 +14,8 @@ The script is useful for:
 
 ---
 ##  Requirements 🚧
-- Python 3.8+
-- Install dependencies: pandas, matplotlib, and numpy.
+- **Python 3.8+**
+- Install dependencies: **nmrglue, matplotlib, and numpy**. Optionally numexpr for large datasets
 - Alternatively use commands below for discription.
   ```bash
   pip install -r requirements.txt
